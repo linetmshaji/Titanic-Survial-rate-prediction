@@ -1,1 +1,3 @@
 # Titanic-Survial-rate-prediction
+The goal of this project is to perform data analysis on titanic dataset and apply machine-learning techniques on the given dataset to successfully build, train and test a model capable of predicting passengers who will survive the sinking of the Titanic. The Dataset had features like ticket price, age, sex, class and personal data on passenger’s present.
+To implement the solution we analyzed the dataset, found the important features, and used a supervised machine learning algorithm to build, train and test the model for the prediction. The supervised machine learning approach was employed because the task was to predict survival from an already existing dataset.
